@@ -1,4 +1,4 @@
-# Story Structure Building - Algorithm for Entity Linking
+# Algorithm for Entity Linking
 
 This script enriches a CSV file with structured data from Wikipedia and Wikidata.
 
