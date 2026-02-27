@@ -49,6 +49,5 @@ Missing values are written as `null`.
 
 ## Run
 
-```python
-enrich_csv_with_wikidata_qids("input.csv")
+insert the CSV path in the INPUT_CSV_PATH variable, and run the main.py
 
